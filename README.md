@@ -3,8 +3,8 @@
 ## A passionate Developer, and Coder!
 
 - 🔭 I’m currently working on [Laravel][laravel] with [VueJS][vuejs]!
-- 📝 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I passionately love solving problems !
+- 📝 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I passionately love solving problems!
 
 ### Reach me at:
 
