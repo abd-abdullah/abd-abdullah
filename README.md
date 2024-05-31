@@ -12,32 +12,26 @@
 - Linkedin <a href="https://www.linkedin.com/in/abd1rti/">Md. Abdullah <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abd1rti" height="15" width="12" /></a>
 <br />
 
-### Languages and Tools:
+### Languages and Skills:
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/laravel.svg" alt="laravel" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codeigniter.svg" alt="codeigniter" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/php/php-original.svg" alt="php" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/babel/babel-original.svg" alt="babel" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/canvasjs.svg" alt="canvasjs" width="30" height="30"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/vuetify/vuetify-original.svg" alt="vuetify" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/@devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30"/>
-  <img src="https://laravel-livewire.com/img/logo.svg" alt="livewire" width="30" height="30"/>
-</p>
+<h2>Skills</h2>
+<ul>
+  <li>Laravel</li>
+  <li>CodeIgniter</li>
+  <li>Tailwind CSS</li>
+  <li>Livewire</li>
+  <li>Vue.js</li>
+  <li>Nuxt.js</li>
+  <li>PHP</li>
+  <li>AWS</li>
+  <li>MariaDB</li>
+  <li>Bootstrap</li>
+  <li>Chart.js</li>
+  <li>CSS3</li>
+  <li>HTML5</li>
+  <li>MySQL</li>
+  <li>Webpack</li>
+</ul>
 
 
 
