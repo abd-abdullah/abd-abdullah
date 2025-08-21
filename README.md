@@ -3,7 +3,7 @@
 ## A passionate Developer, and Coder!
 
 - 🔭 I’m currently working on [Laravel][laravel] with [VueJS][vuejs]!
-- 📝 2024 Goals: Contribute more to Open Source projects
+- 📝 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I passionately love solving problems!
 
 ### Reach me at:
@@ -38,3 +38,4 @@
 [Facebook]: https://www.facebook.com/abd1rti
 [laravel]: https://laravel.com
 [vuejs]: https://vuejs.org
+
